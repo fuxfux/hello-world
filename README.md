@@ -1,2 +1,4 @@
 # hello-world
-My first Github repo (from tutorial)
+This is a very first edit as proposed by the tutorial.
+
+So far so good...
